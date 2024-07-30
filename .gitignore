@@ -1,0 +1,13 @@
+# Gradle files
+.gradle
+build/
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bat
+
+# Misc
+.DS_Store
